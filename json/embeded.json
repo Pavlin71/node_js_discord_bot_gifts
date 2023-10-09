@@ -1,0 +1,14 @@
+{
+    "EMBEDED": {
+        "Color": "#02ED34",
+        "Author":{
+            "name": "РОЗЫГРЫШ ПРИЗОВ", 
+            "iconURL": "https://cdn.discordapp.com/icons/476114825588506639/a_2a4410ec11364bbd042a6bc390c2906f.gif", 
+            "url": "https://vk.com/utfarma3/" 
+        },
+        "Footer":{
+            "text": "С уважением, \nАдминистрация сервер UTF",
+            "iconURL": "https://cdn.discordapp.com/icons/476114825588506639/a_2a4410ec11364bbd042a6bc390c2906f.gif"
+        }
+    }
+}

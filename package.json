@@ -1,0 +1,17 @@
+{
+  "name": "node_js_discord_bot_gifts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot_gifts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pavlin",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "sequelize": "^6.33.0",
+    "sqlite3": "^5.1.6"
+  }
+}
